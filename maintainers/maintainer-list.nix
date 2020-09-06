@@ -8551,6 +8551,12 @@
     githubId = 10110;
     name = "Travis B. Hartwell";
   };
+  treed = {
+    email = "ted.reed@gmail.com";
+    github = "treed";
+    githubId = 71910;
+    name = "Ted Reed";
+  };
   treemo = {
     email = "matthieu.chevrier@treemo.fr";
     github = "treemo";

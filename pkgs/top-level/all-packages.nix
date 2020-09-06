@@ -936,6 +936,8 @@ in
 
   fedora-coreos-config-transpiler = callPackage ../development/tools/fedora-coreos-config-transpiler { };
 
+  cc65 = callPackage ../development/compilers/cc65 { };
+
   ccextractor = callPackage ../applications/video/ccextractor { };
 
   cconv = callPackage ../tools/text/cconv { };
